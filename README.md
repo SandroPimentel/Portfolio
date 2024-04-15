@@ -40,4 +40,4 @@ Une landing page conçue pour captiver et informer les visiteurs sur une boutiqu
 **Résumé du projet** :
 Ce portfolio présente les projets et compétences que j'ai développés pendant ma formation chez OpenClassrooms.
 
-**[Voir le portfolio](https://sandropimentel.github.io/portfolio-Sandro-Pimentel/)**
+**[Voir le projet](https://sandropimentel.github.io/portfolio-Sandro-Pimentel/)**
