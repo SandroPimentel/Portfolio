@@ -4,7 +4,7 @@ Découvrez mes projets de développement web et les technologies que j'utilise p
 
 ## Projets Principaux
 
-### Site de Vente de Sushi à Emporter
+### Site de Vente de Sushi
 
 **Technologies utilisées** : React, JavaScript, Sass, Node.js, Express, MongoDB, EmailJS, Hostinger
 
