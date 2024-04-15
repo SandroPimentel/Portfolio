@@ -16,6 +16,7 @@ Ce projet est un site web qui permet de commander des sushis en ligne. Le site p
 - Système interactif de composition de menu pour les commandes personnalisées
 - Gestion de compte utilisateur pour le suivi des commandes
 - Notifications par email lors de la validation des commandes
+- Calendrier interactif adaptant les disponibilités en temps réel pour éviter les surréservations, avec des suggestions de menus basées sur la capacité restante.
 - Design responsive et optimisation du SEO
 
 **[Voir le projet](https://verosushi.fr/)**
